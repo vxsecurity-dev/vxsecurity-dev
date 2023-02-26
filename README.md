@@ -1,6 +1,5 @@
 # <p align="center">Vex</p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=vxsecurity-dev&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" width="610"/>
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 ## About Me
 Hello, I'm a french 15 years old developper. Programmation is my main hobby since 2020.
