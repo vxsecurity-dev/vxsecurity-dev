@@ -1,5 +1,4 @@
 # <p align="center">Vex</p>
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 ## About Me
 Hello, I'm a french 15 years old developper. Programmation is my main hobby since 2020.
