@@ -1,6 +1,6 @@
 # <p align="center">Vex</p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=vxsecurity&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" width="610"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=vxsecurity-dev&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" width="610"/>
 
 ## About Me
 Hello, I'm a french 15 years old developper. Programmation is my main hobby since 2020.
@@ -12,7 +12,7 @@ Hello, I'm a french 15 years old developper. Programmation is my main hobby sinc
 
 <br><br>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vxsecurity&theme=midnight-purple&hide_border=true" width="500"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vxsecurity-dev&theme=midnight-purple&hide_border=true" width="500"/>
 
 ## Currents Projects
 No current project.
